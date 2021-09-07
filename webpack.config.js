@@ -73,7 +73,6 @@ module.exports = {
         }),
         new webpack.HotModuleReplacementPlugin(),
     ],
-
     module: {
         rules: [
             {
